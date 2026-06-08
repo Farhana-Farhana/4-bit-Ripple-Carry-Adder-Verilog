@@ -1,7 +1,5 @@
 # 4-bit Ripple Carry Adder using Verilog
 
-## Overview
-
 This project implements a 4-bit Ripple Carry Adder (RCA) using Verilog HDL. The design is built by connecting four 1-bit Full Adders in series, where the carry output of one stage becomes the carry input of the next stage.
 
 The design was simulated and verified using Xilinx Vivado.
@@ -25,13 +23,6 @@ A3,B3,C3  → FA3 → Cout
 
 ---
 
-## Tools Used
-
-- Verilog HDL
-- Xilinx Vivado
-- Behavioral Simulation
-
----
 
 ## Project Files
 
@@ -232,4 +223,4 @@ The simulation results verify the correct operation of the 4-bit Ripple Carry Ad
 
 ## Author
 
-Farhana N S
+N S Farhana 
